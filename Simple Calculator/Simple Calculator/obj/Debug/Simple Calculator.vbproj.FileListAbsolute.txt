@@ -1,0 +1,10 @@
+c:\users\deadlyhallows i\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+c:\users\deadlyhallows i\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Resources.resources
+c:\users\deadlyhallows i\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.vbproj.GenerateResource.Cache
+c:\users\deadlyhallows i\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+c:\users\deadlyhallows i\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+c:\users\deadlyhallows i\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.xml
+c:\users\deadlyhallows i\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Form.resources
+c:\users\deadlyhallows i\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+c:\users\deadlyhallows i\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.xml
+c:\users\deadlyhallows i\documents\visual studio 2012\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
